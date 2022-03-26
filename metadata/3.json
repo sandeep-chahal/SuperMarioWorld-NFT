@@ -1,16 +1,16 @@
 {
-	"name": "Luigi",
-	"description": "Luigi is a fictional character featured in video games and related media released by Nintendo. Created by Japanese video game designer Shigeru Miyamoto, Luigi is portrayed as the younger fraternal twin brother and sidekick of Mario, Nintendo's mascot.",
-	"image": "https://ipfs.io/ipfs/Qmbe4JGZCBhJHPoMjxCgL48fSSjkiCpvSVbgxSaUXKtysM",
+	"name": "Yoshi",
+	"description": "Yoshi is a fictional dinosaur who appears in video games published by Nintendo. Yoshi debuted in Super Mario World on the Super Nintendo Entertainment System as Mario and Luigi's sidekick.",
+	"image": "https://gateway.pinata.cloud/ipfs/QmXPdhZunk5psvpvWCHpg99G8TRSyPpzn46p5DjJbzrS4h/3.jpg",
 	"attributes": [
 		{
 			"trait_type": "Strength",
-			"value": 6,
+			"value": 9,
 			"max": 10
 		},
 		{
 			"trait_type": "Speed",
-			"value": 9,
+			"value": 10,
 			"max": 10
 		},
 		{
@@ -20,18 +20,18 @@
 		},
 		{
 			"trait_type": "Intelligence",
-			"value": 3,
+			"value": 5,
 			"max": 10
 		},
 		{
 			"display_type": "boost_number",
 			"trait_type": "Jump",
-			"value": 1
+			"value": 5
 		},
 		{
 			"display_type": "boost_percentage",
 			"trait_type": "Speed",
-			"value": 20
+			"value": 60
 		},
 		{
 			"display_type": "number",
@@ -39,7 +39,7 @@
 			"value": 1
 		},
 		{
-			"trait_type": "Humble",
+			"trait_type": "Determined",
 			"value": "True"
 		},
 		{

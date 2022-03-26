@@ -1,0 +1,27 @@
+{
+	"name": "Mario",
+	"description": "Mario is a golden short and brave guy who bangs his head against bricks so he can save princess",
+	"image": "https://gateway.pinata.cloud/ipfs/QmXPdhZunk5psvpvWCHpg99G8TRSyPpzn46p5DjJbzrS4h/5.jpg",
+	"attributes": [
+		{
+			"trait_type": "Strength",
+			"value": 10,
+			"max": 10
+		},
+		{
+			"trait_type": "Speed",
+			"value": 10,
+			"max": 10
+		},
+		{
+			"trait_type": "Jump",
+			"value": 10,
+			"max": 10
+		},
+		{
+			"trait_type": "Intelligence",
+			"value": 10,
+			"max": 10
+		}
+	]
+}
