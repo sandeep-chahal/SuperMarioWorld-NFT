@@ -6,12 +6,12 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-	const SuperMarioWorld = await ethers.getContractFactory("SuperMarioWorld");
-	const superMarioWorld = await SuperMarioWorld.deploy("SuperMarioWorld", "SPMRW");
+	const SuperMarioWorld = await ethers.getContractFactory("SuperMarioWorldOZ");
+	const superMarioWorld = await SuperMarioWorld.deploy("SuperMarioWorldOZ", "SPMRWO");
 	await superMarioWorld.deployed();
-	console.log("SuperMarioWorld Contract Address", superMarioWorld.address);
+	console.log("SuperMarioWorldOZ Contract Address", superMarioWorld.address);
 
-	await superMarioWorld.mint("https://ipfs.io/ipfs/QmPRbHEKKJzrKHhfrma7G7pUfHy3gR6uzVTyVfabfS91kD");
+	await superMarioWorld.mint("https://ipfs.io/ipfs/QmWbCTH4aQ4BnKp67f2KWvua5szzuPGL5ME2pH3VBw3iEM");
 }
 
 // We recommend this pattern to be able to use async/await everywhere
