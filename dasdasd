@@ -1,0 +1,67 @@
+[33mcommit 898c9e9fea7eb4dd89db40325a5af2c1f3f7c5bf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Sat Mar 26 18:52:13 2022 +0530
+
+    created SuperMarioWorld ERC1155 collection contract
+
+[33mcommit 574ad54af5ed954216e83e0ffd333e99c3f29396[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Sat Mar 26 18:14:52 2022 +0530
+
+    added more metadata
+
+[33mcommit 5ef80220a396a9c1fffa35895a6a13037bd2e294[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Sat Mar 26 17:53:27 2022 +0530
+
+    created SuperMarioWorld ERC1155 NFT
+
+[33mcommit 55de56b872ffd52503a48fe10861bfb65c1ad43e[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Sat Mar 26 17:13:31 2022 +0530
+
+    created ERC1155 contract
+
+[33mcommit 683047b55dfe8b175e05f7691452b6c775e50146[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Sat Mar 26 14:18:57 2022 +0530
+
+    created luigi BFT with openzeppelin
+
+[33mcommit b2d4d192ed96bbed3b3fe19d5a35b346fddad8fb[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Fri Mar 25 17:22:40 2022 +0530
+
+    created deploy.js
+    added readme
+    fixed network name in hardhat config
+
+[33mcommit e59458796af1d8f4c057b9da30237d12f88bbc3f[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Fri Mar 25 16:13:51 2022 +0530
+
+    added polygon mumbai testnet
+
+[33mcommit ec01225379b8300908b46dd0801e614355c7a0fe[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Fri Mar 25 15:56:54 2022 +0530
+
+    added metadata
+
+[33mcommit 12f6b10517f662c031723fe090b0431f047f36ae[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Fri Mar 25 15:48:25 2022 +0530
+
+    added ERC721 metadata functions
+
+[33mcommit 76c153b3e8fecb42806f4dcb28c7d25dcd5340db[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Fri Mar 25 15:24:02 2022 +0530
+
+    added all core functions of ERC721
+
+[33mcommit 8730d9309ce56c0fdd66fd910126de8e73b53b48[m
+Author: sandeep-chahal <sandeepchahal573@gmail.com>
+Date:   Fri Mar 25 13:31:03 2022 +0530
+
+    created empty hardhat project
