@@ -114,19 +114,9 @@ contract ERC721 {
     function safeTransferFrom(
         address from,
         address to,
-        uint256 tokenId,
-        bytes memory _data
-    ) public {
-        transferFrom(from, to, tokenId);
-        require(_checkOnERC721Received(), "Receiver not implemented");
-    }
-
-    function safeTransferFrom(
-        address from,
-        address to,
         uint256 tokenId
     ) public {
-        safeTransferFrom(from, to, tokenId, "");
+        transferFrom(from, to, tokenId);
         require(_checkOnERC721Received(), "Receiver not implemented");
     }
 
